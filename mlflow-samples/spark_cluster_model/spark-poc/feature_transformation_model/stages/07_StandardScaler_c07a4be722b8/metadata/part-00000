@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StandardScalerModel","timestamp":1657252399870,"sparkVersion":"3.1.2-amzn-1","uid":"StandardScaler_c07a4be722b8","paramMap":{"inputCol":"ctr_vector_ltb_event_robust","outputCol":"ctr_vector_ltb_event_robust_scaled"},"defaultParamMap":{"withStd":true,"outputCol":"StandardScaler_c07a4be722b8__output","withMean":false}}
